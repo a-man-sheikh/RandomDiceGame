@@ -22,9 +22,7 @@ To play the Random Dice Game:
 2. Refresh the page to start a new game.
 3. Wait for the dice to roll and see the result of the game.
 
-## Screenshots
 
-Include screenshots of your Random Dice Game here.
 
 ## Contributing
 
